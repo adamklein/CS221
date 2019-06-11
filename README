@@ -1,0 +1,12 @@
+Files:
+
+- agent.py
+  - scaffolding for playing agents against one another
+- features.py
+  - code for extracting features from kaggle data
+- baseline_v_oracle.py
+  - code for original proposal work
+- notebooks/
+  - code for supervised learning w/random forest, neural networks
+- data/kaggle
+  - training/validation data
