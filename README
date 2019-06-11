@@ -7,6 +7,6 @@ Files:
 - baseline_v_oracle.py
   - code for original proposal work
 - notebooks/
-  - code for supervised learning w/random forest, neural networks
+  - code for supervised learning w/regression, random forest, neural networks
 - data/kaggle
   - training/validation data
